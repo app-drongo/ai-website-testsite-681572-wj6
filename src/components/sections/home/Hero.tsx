@@ -8,7 +8,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
   badge: 'New: Website Testing Platform',
-  title: 'Build and test websites',
+  title: 'This is a test for SWAP',
   titleHighlight: 'faster than ever',
   description:
     'Create professional websites with our streamlined testing platform. Perfect for developers, agencies, and businesses who need reliable web solutions.',
